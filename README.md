@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m @himavanthnightrider
+- 👋 Hi there, I’m @himavanthkar
 - 🧑🏻About Me:
 🎓 Master's Student in Computer Science at San Jose State University, majoring in computer science.
 🚀 Highly skilled in Software Engineering, Data Engineering, and AI, with a strong passion for Machine Learning.
@@ -32,7 +32,7 @@ Hobbies include Gymming, Cooking, Reading, and Travelling.
 
 🌍 Let's Connect:
 
-LinkedIn GitHub
+
 
 <!---
 himavanthnightrider/himavanthnightrider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
